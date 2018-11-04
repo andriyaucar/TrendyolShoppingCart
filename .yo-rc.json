@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "applicationType": "microservice",
+    "gitCompany": "",
+    "baseName": "ShoppingCart",
+    "packageName": "com.trendyol.shoppingcart",
+    "packageFolder": "com/trendyol/shoppingcart",
+    "serverPort": 8082,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.6.0",
+    "jwtSecretKey": "N2I2OWI0YmJhMmM5MWRhZTE0OTY4ZGI4NmVlZDM0MmMyMzljZDkxYjJmY2FhN2Q2YTE5MTk0ODBjOGFkNzE2MjliZGMyOTI5NDVhZmM2NWU4Njk5ZjE4OGQyMjdiODljMzJiMzFmMzM0YWU0NmU4ODhmZDM4OGY1MDQxN2Y0Zjg=",
+    "skipClient": true,
+    "skipUserManagement": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "andriyaucar",
+  "repository-name": "TrendyolShoppingCart"
+}
